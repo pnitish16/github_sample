@@ -2,3 +2,4 @@
 Sample Github Commands
 
 practising with the github commands
+comparing branches
